@@ -117,7 +117,7 @@ export default class CreateExercise extends Component {
                             />
                     </div>
                     <div className="form-group">
-                        <label>Duration (in minutes): </label>
+                        <label>Duration: </label>
                         <input type="text"
                             required
                             className="form-control"
